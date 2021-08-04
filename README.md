@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jwsims816@gmail.com**
 
-- 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/jwsims/)
+- 📄 Check out my work experience at [my LinkedIn](https://www.linkedin.com/in/jwsims/)
 
 - ⚡ Fun fact: **I'm a professional musician! I've played jazz bass for close to 17 years.**
 

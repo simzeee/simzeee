@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **DS&A (always) and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://www.devjohnsims.com/](https://www.devjohnsims.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.devjohnsims.com/)
 
 - 💬 Ask me about **anything you want!**
 
 - 📫 How to reach me **jwsims816@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jwsims/](https://www.linkedin.com/in/jwsims/)
+- 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/jwsims/)
 
-- ⚡ Fun fact **I'm a professional musician! I've played jazz bass for close to 17 years.**
+- ⚡ Fun fact: **I'm a professional musician! I've played jazz bass for close to 17 years.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

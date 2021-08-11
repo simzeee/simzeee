@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Sims</h1>
 <h3 align="center">I'm a developer, musician, husband, and creator.</h3>
 
-- 🔭 I’m currently working on [Find A Farm](https://github.com/simzeee/FindAFarm)
+- 🔭 I’m currently working on [Find A Farm](https://github.com/simzeee/FindAFarm) and Data Structures/Algorithm
 
 - 🌱 I’m currently learning **DS&A (always) and Typescript**
 

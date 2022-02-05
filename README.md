@@ -13,7 +13,7 @@
 
 - 📄 Check out my work experience at [my LinkedIn](https://www.linkedin.com/in/jwsims/)
 
-- ⚡ Fun fact: **I'm a professional musician! I've played jazz bass for close to 17 years.**
+- ⚡ Fun fact: **I'm a professional musician! I've played jazz bass for close to 20 years.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

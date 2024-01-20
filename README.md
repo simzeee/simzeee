@@ -2,7 +2,7 @@
 <h3 align="center">I'm a developer, musician, husband, and creator.</h3>
 
 - 🔭 I’m currently working on [Structy](https://github.com/simzeee/structy) to build proficiency with Data Structures and Algorithms as well as learn Java and C++.
-     **This is a long project!**
+     <br>**This is a long project!**
   
 - 🔭 I'm also working on [Learning TypeScript](https://github.com/simzeee/20projects20days](https://github.com/simzeee/Learning_TypeScript) to regularly include TypeScript in my React Projects.
 

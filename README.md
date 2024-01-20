@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Sims</h1>
 <h3 align="center">I'm a developer, musician, husband, and creator.</h3>
 
-- 🔭 I’m currently working on [20 Projects in 20 Days](https://github.com/simzeee/20projects20days), [Structy](https://github.com/simzeee/structy), and studying with a great teacher at [Joe_Time](https://github.com/simzeee/Joe_Time)
+- 🔭 I’m currently working on [20 Projects in 20 Days](https://github.com/simzeee/20projects20days), [Structy](https://github.com/simzeee/structy)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://www.devjohnsims.com/)
 

@@ -5,7 +5,7 @@
      <br><p align="center">****I am aware this will be a long project!! 😅****</p>
 
 - 🔭 I'm also working on the Udemy course [Automating Everything in Python](https://github.com/simzeee/automate_everything_python) to increase my understanding of Python and its capabilities in web development and beyond
-- 🔭 Finally, I am nearly finished [Learning TypeScript](https://github.com/simzeee/Learning_TypeScript) to regularly include TypeScript in my React Projects.
+- 🔭 Finally, I am working on multiple projects at [Learning TypeScript](https://github.com/simzeee/Learning_TypeScript) to regularly include TypeScript in my React Projects.
 
 - 💬 Ask me about **anything you want!** I just recently started learning Brazillian Jiu Jitsu and I could talk about Breaking Bad and Better Call Saul for days. 
 

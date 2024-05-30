@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Structy](https://github.com/simzeee/structy) to build proficiency with Data Structures and Algorithms as well as learn Java and C++.
      <br><p align="center">****I am aware this will be a long project!! 😅****</p>
 
-- 🔭 I'm also working through [Excerism's}(https://exercism.org/) [JavaScript](https://github.com/simzeee/learn_JavaScript), [Python](https://github.com/simzeee/learn_Python), and [Java](https://github.com/simzeee/learn_Java) courses to build my language fundamentals.
+- 🔭 I'm also working through [Excerism's](https://exercism.org/) [JavaScript](https://github.com/simzeee/learn_JavaScript), [Python](https://github.com/simzeee/learn_Python), and [Java](https://github.com/simzeee/learn_Java) courses to build my language fundamentals.
   
 - 🔭 Finally, I am working on multiple projects at [Learning TypeScript](https://github.com/simzeee/Learning_TypeScript) to become a TypeScript guru.
 

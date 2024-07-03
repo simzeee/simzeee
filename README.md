@@ -5,6 +5,8 @@
      <br><p align="center">****I am aware this will be a long project!! 😅****</p>
 
 - 🔭 I'm also working through [Excerism's](https://exercism.org/) [JavaScript](https://github.com/simzeee/learn_JavaScript), [Python](https://github.com/simzeee/learn_Python), and [Java](https://github.com/simzeee/learn_Java) courses to build my language fundamentals.
+
+- 🔭 I feel confident with my Flask knowledge, so I'm beginning the tutorials for [Django](https://github.com/simzeee/learn_django) to add that to my skillset.
   
 - 🔭 Finally, I am working on multiple projects at [Learning TypeScript](https://github.com/simzeee/Learning_TypeScript) to become a TypeScript guru.
 
